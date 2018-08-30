@@ -1,7 +1,9 @@
 # DSPackVidCap
 
 
-DSPack Video Capture - IID_IAMStreamConfig SetFormat
+DSPack Video Capture - 
+  IAMCameraControl : PTZ 
+  IID_IAMStreamConfig : SetFormat - width x height
 
 used dspack-master
 
